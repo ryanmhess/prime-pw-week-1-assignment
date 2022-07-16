@@ -17,12 +17,14 @@
 /* Make your p tag a different color and italic */
     footer{
         text-align:center;
+        padding-top:10px;
+        padding-bottom:10px;
     }
 
     p{
-        max-width:500px;
+        text-align:center;
         font-style:italic;
-        font-size:medium;
+        font-size:large;
     }
 /* Put a border around your image */
 
