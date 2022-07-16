@@ -30,4 +30,11 @@
     img{
         border:10px solid chocolate;
     }
+
+    .center{
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+        width:25%
+    }
 /* Change the font-family of your list */
