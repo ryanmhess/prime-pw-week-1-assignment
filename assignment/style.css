@@ -27,5 +27,7 @@
         font-size:large;
     }
 /* Put a border around your image */
-
+    img{
+        border:10px solid chocolate;
+    }
 /* Change the font-family of your list */
