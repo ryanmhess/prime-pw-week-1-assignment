@@ -1,6 +1,6 @@
 /* Give your page a fun background color */
     body{
-        background-color: salmon;
+        background-color:salmon;
     }
 /* Make the header and footer a different color from the background */
     header{
@@ -8,17 +8,20 @@
     }
 
     footer{
-        background-color: cornsilk;
+        background-color:cornsilk;
     }
 /* Align the h1 containing your name in the center of the header*/
     h1{
-        text-align: center;
+        text-align:center;
     }
 /* Make your p tag a different color and italic */
+    footer{
+        text-align:center;
+    }
+
     p{
-        max-width: 75px;
-        background-color: chocolate;
-        font-style: italic;
+        max-width:500px;
+        font-style:italic;
         font-size:medium;
     }
 /* Put a border around your image */
