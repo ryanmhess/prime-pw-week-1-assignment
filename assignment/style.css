@@ -38,3 +38,17 @@
         width:25%
     }
 /* Change the font-family of your list */
+    ul{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+
+    }
+
+    .meat{
+        float:left;
+        margin-right:25px;
+    }
+
+    .potatoes{
+        display:inline;
+        height:50px;
+    }
